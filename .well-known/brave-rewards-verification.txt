@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: ffgdoor2.github.io
-Token: 82999184e276fbacf030ce06f67fb082c0ed453f590303fa3ad865268e9d1132
